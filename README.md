@@ -1,7 +1,12 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🌟 Exploring Generative AI <br>💻 Seeking collaboration opportunities in Frontend, Backend, and Full-Stack Web Development<br>🔨 Currently working on a Full-Stack web projects<br>🌐 Interested in Web 3 and emerging technologies
+
+🤖 Diving deep into Generative AI & LLMs<br>
+💻 Open to collaborating on Full-Stack, Frontend & Backend projects<br>
+🔨 Currently shipping Full-Stack web apps<br>
+☁️ Exploring cloud infrastructure & scalable architectures<br>
+🏗️ Fascinated by System Design & building things that scale
 
 
 ## 🌐 Socials:
