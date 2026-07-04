@@ -144,12 +144,18 @@ Extended <a href="https://jm-agqv.vercel.app/">JM-Parts</a>, an inventory manage
 
 ### 📊 GitHub Stats
 
+<!--
+  Stats card is self-hosted at github-readme-stats-gamma-smoky-54.vercel.app
+  (own Vercel deployment, own PAT — not the shared public instance).
+-->
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Maheshkumarjena&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshkumarjena&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img height="165" src="https://github-readme-stats-gamma-smoky-54.vercel.app/api?username=Maheshkumarjena&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img height="165" src="https://github-readme-stats-gamma-smoky-54.vercel.app/api/top-langs/?username=Maheshkumarjena&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Maheshkumarjena&theme=dark&hide_border=false"/>
+<!-- Streak stats is a SEPARATE project (DenverCoder1/github-readme-streak-stats) — needs its own fork + Vercel deploy, different from the stats card above -->
+<img src="https://your-streak-instance.vercel.app/?user=Maheshkumarjena&theme=dark&hide_border=false"/>
 
 </div>
 
