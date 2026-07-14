@@ -19,7 +19,7 @@
 - 🔨 Currently shipping full-stack web apps end-to-end
 - ☁️ Exploring cloud infrastructure & scalable architectures
 - 🏗️ Fascinated by System Design — building things that scale
-- 🌱 Open-source contributor — merged PR on **[Cal.com](https://github.com/calcom/cal.com)** (30k+ ⭐)
+- 🌱 Open-source contributor — merged PR on **[Cal.com](https://github.com/calcom/cal.com)** (46k+ ⭐)
 - 💬 Ask me about React/Next.js, Node.js backends, or AIoT projects
 
 <br/>
