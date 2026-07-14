@@ -28,7 +28,7 @@
 
 <table>
 <tr>
-<td width="120" align="center"><b>Cal.com</b><br/><sub>30k+ ⭐</sub></td>
+<td width="120" align="center"><b>Cal.com</b><br/><sub>46k+ ⭐</sub></td>
 <td>
 
 **[Merged PR #29282](https://github.com/calcom/cal.diy/pull/29282)** — fixed an event configuration persistence bug affecting cancellation settings. Implemented end-to-end data rehydration and added automated regression tests to prevent recurrence.
